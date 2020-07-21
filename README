@@ -1,0 +1,3 @@
+BlackJack Workshop WCS
+1 - Lancer un composer install
+2 - Lancer les tests avec "$ ./vendor/bin/phpunit tests/"
